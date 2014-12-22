@@ -1,4 +1,4 @@
-New Java 8 Features and Improvements
+Java SE 8 New Features and Improvements
 
 Simple examples about new features of JAVA SE 8 as listed below:
 
